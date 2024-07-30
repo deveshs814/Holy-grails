@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 50vh; */
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #333;
+    text-align: center;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #333;
+    text-align: center;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    color: black;
+    border: 2px solid #333;
+    text-align: center;
+}
+
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #333;
+    text-align: center;
+}
+
+.love{
+    display: flex;
+    
+}
